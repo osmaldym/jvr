@@ -19,3 +19,8 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+**/ffmpeg/presets
+**/ffmpeg/doc
+**/ffmpeg/bin/ffplay.exe
+**/ffmpeg/bin/ffprobe.exe
